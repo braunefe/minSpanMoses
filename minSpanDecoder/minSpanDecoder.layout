@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="all" />
+	<File name="../moses/src/CYKPlusParser/ChartRuleLookupManagerCYKPlus.h" open="0" top="0" tabpos="0">
+		<Cursor position="1583" topLine="14" />
+	</File>
+	<File name="../moses/src/CYKPlusParser/ChartRuleLookupManagerMemory.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="8968" topLine="204" />
+	</File>
+	<File name="../moses/src/CYKPlusParser/ChartRuleLookupManagerMemory.h" open="0" top="0" tabpos="0">
+		<Cursor position="1160" topLine="21" />
+	</File>
+	<File name="../moses/src/CYKPlusParser/ChartRuleLookupManagerMinSpan.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="14210" topLine="0" />
+	</File>
+	<File name="../moses/src/CYKPlusParser/ChartRuleLookupManagerMinSpan.h" open="0" top="0" tabpos="0">
+		<Cursor position="1249" topLine="42" />
+	</File>
+	<File name="../moses/src/CYKPlusParser/ChartRuleLookupManagerOnDisk.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3122" topLine="60" />
+	</File>
+	<File name="../moses/src/CYKPlusParser/ChartRuleLookupManagerOnDisk.h" open="0" top="0" tabpos="0">
+		<Cursor position="2194" topLine="34" />
+	</File>
+	<File name="../moses/src/CYKPlusParser/DotChart.h" open="0" top="0" tabpos="0">
+		<Cursor position="2124" topLine="35" />
+	</File>
+	<File name="../moses/src/ChartRuleLookupManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="1939" topLine="33" />
+	</File>
+	<File name="../moses/src/ChartTranslationOptionCollection.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2659" topLine="43" />
+	</File>
+	<File name="../moses/src/DecodeGraph.h" open="1" top="0" tabpos="2">
+		<Cursor position="2754" topLine="30" />
+	</File>
+	<File name="../moses/src/InputType.h" open="0" top="0" tabpos="0">
+		<Cursor position="4561" topLine="107" />
+	</File>
+	<File name="../moses/src/Parameter.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1136" topLine="21" />
+	</File>
+	<File name="../moses/src/PhraseDictionary.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2579" topLine="53" />
+	</File>
+	<File name="../moses/src/PhraseDictionaryNode.h" open="0" top="0" tabpos="0">
+		<Cursor position="1150" topLine="21" />
+	</File>
+	<File name="../moses/src/RuleTable/Loader.h" open="0" top="0" tabpos="0">
+		<Cursor position="2136" topLine="57" />
+	</File>
+	<File name="../moses/src/RuleTable/LoaderCompact.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="10204" topLine="263" />
+	</File>
+	<File name="../moses/src/RuleTable/LoaderCompact.h" open="0" top="0" tabpos="0">
+		<Cursor position="2208" topLine="42" />
+	</File>
+	<File name="../moses/src/RuleTable/LoaderStandard.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="10156" topLine="288" />
+	</File>
+	<File name="../moses/src/RuleTable/LoaderStandard.h" open="0" top="0" tabpos="0">
+		<Cursor position="2209" topLine="30" />
+	</File>
+	<File name="../moses/src/RuleTable/PhraseDictionaryMinSpan.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="4753" topLine="98" />
+	</File>
+	<File name="../moses/src/RuleTable/PhraseDictionaryMinSpan.h" open="0" top="0" tabpos="0">
+		<Cursor position="2041" topLine="15" />
+	</File>
+	<File name="../moses/src/RuleTable/PhraseDictionaryNodeSCFG.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="12" />
+	</File>
+	<File name="../moses/src/RuleTable/PhraseDictionaryNodeSCFG.h" open="0" top="0" tabpos="0">
+		<Cursor position="1374" topLine="21" />
+	</File>
+	<File name="../moses/src/RuleTable/PhraseDictionaryOnDisk.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3078" topLine="9" />
+	</File>
+	<File name="../moses/src/RuleTable/PhraseDictionarySCFG.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="3994" topLine="87" />
+	</File>
+	<File name="../moses/src/Scope3Parser/ApplicableRuleTrie.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="18" />
+	</File>
+	<File name="../moses/src/Scope3Parser/Parser.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1564" topLine="30" />
+	</File>
+	<File name="../moses/src/Scope3Parser/Parser.h" open="0" top="0" tabpos="0">
+		<Cursor position="1963" topLine="42" />
+	</File>
+	<File name="../moses/src/StaticData.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="45093" topLine="0" />
+	</File>
+	<File name="../moses/src/TypeDef.h" open="0" top="0" tabpos="0">
+		<Cursor position="3379" topLine="120" />
+	</File>
+	<File name="../moses/src/Util.h" open="0" top="0" tabpos="0">
+		<Cursor position="9564" topLine="285" />
+	</File>
+</CodeBlocks_layout_file>
